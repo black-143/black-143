@@ -1,6 +1,6 @@
 ### _Welcome!_
 
-Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm good at <i>Python,Java</i>. I'm passionate about learning new concepts and technologies.Simultaneously i am enthusiastic to learn different programming languages,algorithms.
+Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm good at <i>Python, ReactJS, Java</i>. I'm passionate about learning new concepts and front end technologies.
 &nbsp;
 <br>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pravallika-yakkala-878ba31a0/)
 &nbsp;
@@ -10,28 +10,30 @@ Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm go
 
 <p align="left">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" height="auto" width="40" title="Python">
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="40" title="Java">
+<img src="https://github.com/dustin100/dustin100/blob/master/assests/react-original.svg" height="auto" width="40" title="React">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40" title="html5">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40" title="css3">
+<img src="https://github.com/dustin100/dustin100/blob/master/assests/javascript-plain.svg" height="auto" width="40" title="Javascript">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="auto" width="40" title="Java">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40" title="VS Code">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40" title="git">
 
 </p>
 <ul>
 <li>
-  <b>🔭 Currently working on:</b> Java,Springboot.
+  <b>🔭 Currently working on:</b> ReactJS,AngularJS,Java,Springboot.
    </li>
   <li>
-     <b>🌱 Getting better at:  </b>  OOPS.
+     <b>🌱 Getting better at:  </b>  Design Principles,Frontend concepts.
    </li>
   <li>
-     <b>🤔 Exploring: </b> Stock market.
+     <b>🤔 Exploring: </b> UI/UX design,Stock market.
    </li>
    <li>
       <b>⚗️ Experimenting on: </b> Optimizing things.
    </li>
    <li>
-     <b>💬 Ask me about: </b> Anything tech related.
+     <b>💬 Ask me about: </b> Anything frontend, dsa related.
    </li>
  
    <li>
