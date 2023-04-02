@@ -26,7 +26,7 @@ Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm go
   <li>
      <b>🌱 Getting better at:  </b>  Design Principles,Frontend concepts.
    </li>
-  <li>
+<!--   <li>
      <b>🤔 Exploring: </b> UI/UX design,Stock market.
    </li>
    <li>
@@ -42,7 +42,7 @@ Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm go
    
    <li>
      <b>⚡ Fun fact:  </b> making different poses when camera is good.
-   </li>
+   </li> -->
 </ul>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=X0rD3v1L&show_icons=true&include_all_commits=true" width="425"/>
  -->
