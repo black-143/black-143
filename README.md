@@ -47,7 +47,7 @@ Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm go
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=X0rD3v1L&show_icons=true&include_all_commits=true" width="425"/>
  -->
 
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=black143&font=patrick_hand&extension=null&width=425)
+<!-- ![Leetcode Stats](https://leetcode.card.workers.dev/?username=black143&font=patrick_hand&extension=null&width=425) -->
 
 <!--
 **black-143/black-143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
