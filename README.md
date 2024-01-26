@@ -1,6 +1,6 @@
 ### _Welcome!_
 
-Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm good at <i>Python, ReactJS, Java</i>. I'm passionate about learning new concepts and front end technologies.
+Hey, This is <b>Pravallika Yakkala</b>, and welcome to my Github profile. I'm good at <i>Javascript, ReactJS, Python, Java</i>. I'm passionate about learning new concepts and front end technologies.
 &nbsp;
 <br>[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pravallika-yakkala-878ba31a0/)
 &nbsp;
